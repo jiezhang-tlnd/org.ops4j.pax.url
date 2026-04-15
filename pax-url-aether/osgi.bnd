@@ -29,7 +29,6 @@ Import-Package:\
   !javax.inject.*,\
   !org.apache.commons.lang.*,\
   !org.codehaus.classworlds.*,\
-  !org.codehaus.plexus.*,\
   !org.jsoup.*,\
   !org.eclipse.sisu.*,\
   sun.misc; resolution:=optional,\
